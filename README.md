@@ -1,4 +1,4 @@
-self_replicator
+quine
 ===============
 
 Run `make` to produce replicator and replicator.min. Thereafter, running `./replicator [filename]` will output its source code to
