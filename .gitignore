@@ -1,3 +1,7 @@
 *.o
+
 replicator
+replicator.min
+
 output.c
+o.c
