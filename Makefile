@@ -3,6 +3,8 @@ CFLAGS = -c -g
 
 INCL = -I.
 
+all: replicator replicator.min
+
 replicator: replicator.o
 	$(CC) -o replicator $^
 
